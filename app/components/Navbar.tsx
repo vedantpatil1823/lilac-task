@@ -5,7 +5,7 @@ export default function Navbar() {
         <nav className="flex justify-between items-center px-10 py-6 bg-[#F3F0EC] text-[#2C2C2C]">
             {/* Logo Area */}
             <div className="text-xl font-serif font-semibold tracking-tight">
-                LILAC
+                Dr. Maya Reynolds
             </div>
 
             {/* Navigation Links */}
