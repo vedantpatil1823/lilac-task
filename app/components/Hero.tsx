@@ -17,7 +17,7 @@ export default function Hero() {
         </p>
   
         {/* Clear Call to Action */}
-        <button className="bg-maya-earth text-white px-10 py-4 uppercase tracking-widest text-xs hover:bg-opacity-90 transition-all shadow-sm">
+        <button className="bg-black text-white px-10 py-4 uppercase tracking-widest text-xs hover:bg-opacity-90 transition-all shadow-sm">
           Schedule a Free Consultation
         </button>
       </section>
